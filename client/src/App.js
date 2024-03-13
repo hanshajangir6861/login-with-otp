@@ -7,6 +7,7 @@ import Error from './pages/Error';
 import Headers from './componants/Headers';
 import { Routes, Route } from "react-router-dom"
 import 'bootstrap/dist/css/bootstrap.min.css';
+import 'react-toastify/dist/ReactToastify.css';
 
 
 function App() {
