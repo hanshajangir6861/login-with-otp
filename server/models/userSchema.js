@@ -1,5 +1,6 @@
 import mongoose from "mongoose";
 import { Validator } from "validator";
+import bcrypt from bcrypt
 
 const userSchema = new mongoose.Schema({
     fname: {
